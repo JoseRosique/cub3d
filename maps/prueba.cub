@@ -1,0 +1,11 @@
+NO ./textures/castle.xpm
+WE ./textures/felix.xpm
+SO ./textures/wall.xpm
+EA ./textures/castle.xpm
+
+F 220,100,2
+C 225,255,255
+
+11111111111111111111111111111
+10000000000000000000W00000001
+11111111111111111111111111111

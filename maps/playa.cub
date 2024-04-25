@@ -1,0 +1,17 @@
+NO ./textures/playa_frontal.xpm
+SO ./textures/edificios_playa.xpm
+WE ./textures/playa_lateral.xpm
+EA ./textures/palmeras.xpm
+
+F 206, 180, 141
+C 12,183,242
+
+111111111
+100000001
+100011001
+100000001
+1000N0001
+100000001
+100000001
+100000001
+111111111
